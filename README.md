@@ -1,10 +1,13 @@
 # churnerator
 A collection of links to easily pause or cancel your subscription to various streaming services
 
+[chrunerator](https://churnerator.com/)
+
 * Amazon Prime Video
-* Max
+* AppleTV+
 * Disney+
 * Hulu
+* Max
 * Netflix
 * Paramount+
 
