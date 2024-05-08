@@ -1,7 +1,7 @@
 # churnerator
 A collection of links to easily pause or cancel your subscription to various streaming services
 
-[chrunerator](https://churnerator.com/)
+[churnerator](https://churnerator.com/)
 
 * Amazon Prime Video
 * AppleTV+
